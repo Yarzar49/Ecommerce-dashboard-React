@@ -1,29 +1,3 @@
-// import React from 'react';
-// import './App.css';
-// import Header from './compoents/Header';
-// import { BrowserRouter, Routes, Route } from 'react-router-dom';
-// import Home from './compoents/Home';
-// import Cart from './compoents/Cart';
-
-// function App() {
-//   return (
-//     <>
-//      <BrowserRouter>
-//       <Header />
-//       <div className="App">
-//         <Routes>
-//           <Route path='/' element={ <Home /> } />
-//           <Route path='/cart' element={ <Cart /> } />
-//         </Routes>
-//       </div>
-//     </BrowserRouter>
-   
-//     </>
-//   )
-// }
-
-// export default App;
-
 import React from 'react'
 import { Button} from 'react-bootstrap'
 import Header from './compoents/Header'
